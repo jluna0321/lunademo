@@ -1,0 +1,23 @@
+{
+    "_commentBegin": "sl:translate_json_start",
+    "sl_path": "menuItems/parent, menuItems/text",
+    "menuButton": {
+        "text": "Mendsadu",
+         "hiddenText": "expdsaand"
+       },
+    "subHeadingText": "Subcategories",
+    "menuItems": [
+      {
+        "text": "About Tesadasst String",
+        "href": "#about/wasdashat-is-this",
+        "parent": "abasdasout",
+        "subMenu": "Texdast More"
+      },
+      {
+        "text": "About Tedsadasst String2",
+        "href": "#about/wasdashat-is-this2",
+        "parent": "abouadsdast2",
+        "subMenu": "Textasda More2"
+      }
+      ]
+      }
