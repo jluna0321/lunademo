@@ -1,0 +1,23 @@
+{
+    "_commentBegin": "sl:translate_json_start",
+    "sl_translate": "text, menuItems/parent",
+    "menuButton": {
+        "text": "Menu",
+         "hiddenText": "expand"
+       },
+    "subHeadingText": "Subcategories",
+    "menuItems": [
+      {
+        "text": "About Test String",
+        "href": "#about/what-is-this",
+        "parent": "about",
+        "subMenu": "Text More"
+      },
+      {
+        "text": "About Test String2",
+        "href": "#about/what-is-this2",
+        "parent": "about2",
+        "subMenu": "Text More2"
+      }
+      ]
+      }
