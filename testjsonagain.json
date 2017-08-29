@@ -1,6 +1,6 @@
 {
     "_commentBegin": "sl:translate_json_start",
-    "sl_path": "menuItems/0/*, menuButton/0/text",
+    "sl_path": "menuItems/#, menuButton/0/text",
     "menuButton": {
         "text": "Mendsadu",
         "hiddenText": "expdsaand"
