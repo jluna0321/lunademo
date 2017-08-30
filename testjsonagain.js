@@ -1,8 +1,6 @@
-// <sl:translate_json>
 /* <sl:translate_generic_json> */
 var tmplCobrandData = { sl_translate: "text,heading,content,title",
     sl_suffix: "Text",
-    sl_html: "text",
     
         cobrand: {
             headlineText: "<a href='/eligibilitypremiumcalc' title='Go to Eligibility & Premium THISISATEST Homepage'><img src='img/cobrand_eligibility_calculator.png' alt='Eligibility & Premium THISISATEST' href='/medicareeligibilitytool/index.html' /></a>",
@@ -48,4 +46,3 @@ var tmplCobrandData = { sl_translate: "text,heading,content,title",
         }
     }
 /* </sl:translate_generic_json> */
-// </sl:translate_json>
