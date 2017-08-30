@@ -1,4 +1,5 @@
 // <sl:translate_json>
+/* <sl:translate_generic_json> */
 var tmplCobrandData = { sl_translate: "text,heading,content,title",
     sl_suffix: "Text",
     sl_html: "text",
@@ -46,4 +47,5 @@ var tmplCobrandData = { sl_translate: "text,heading,content,title",
     
         }
     }
+/* </sl:translate_generic_json> */
 // </sl:translate_json>
