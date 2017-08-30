@@ -1,6 +1,6 @@
 {
   "_commentBegin": "sl:tranlsate_json_start",
-  "sl_path": "menuButton/text,menuButton/hiddenText,subHeadingText,menuItems/text,menuItems/subMenu/text",
+ "sl_path": "menuButton/text,menuButton/hiddenText,subHeadingText,menuItems/#/text,menuItems/subMenu/#/text",
    "menuButton": {
         "text": "Menu",
         "hiddenText": "expand"
