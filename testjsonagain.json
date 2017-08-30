@@ -1,20 +1,110 @@
 {
-    "_commentBegin": "sl:translate_json_start",
-    "sl_path": "menuItems/#, menuButton/0/text",
-    "menuButton": {
-        "text": "Mendsadu",
-        "hiddenText": "expdsaand"
+  "_commentBegin": "sl:tranlsate_json_start",
+  "sl_path": "menuButton/text,menuButton/hiddenText,subHeadingText,menuItems/text,menuItems/subMenu/text",
+   "menuButton": {
+        "text": "Menu",
+        "hiddenText": "expand"
     },
     "subHeadingText": "Subcategories",
-    "menuItems": [{
-        "text": "About Tesadasst String",
-        "href": "#about/wasdashat-is-this",
-        "parent": "abasdasout",
-        "subMenu": "Texdast More"
-    }, {
-        "text": "About Tedsadasst String2",
-        "href": "#about/wasdashat-is-this2",
-        "parent": "abouadsdast2",
-        "subMenu": "Textasda More2"
-    }]
+    "menuItems": [
+        {
+            "text": "About Dialysis Facility Compare",
+            "href": "#about/what-is-dfc",
+            "parent": "about",
+            "subMenu": [
+                {
+                    "text": "How can Dialysis Facility Compare help you?",
+                    "href": "#about/what-is-dfc"
+                },
+                {
+                    "text": "What information can you get about dialysis centers?",
+                    "href": "#about/dialysisfacility-info",
+                    "parent": "dialysisfacility-info"
+                  
+                },
+                {
+                    "text": "How can you use the information on Dialysis Facility Compare?",
+                    "href": "#about/use-dfc-information"
+                }
+            ]
+        },
+        {
+            "text": "About the data",
+            "href": "#data/about-data",
+            "parent": "data",
+            "subMenu": [
+                {
+                    "text": "About the Data",
+                    "href": "#data/about-data"
+                },
+                {
+                    "text": "What measures are displayed?",
+                    "href": "#data/measures-displayed"
+                },
+                {
+                    "text": "Star ratings",
+                    "href": "#data/star-ratings-system"
+                },
+                {
+                    "text": "Quality measures: best treatment practices",
+                    "href": "#data/best-treatment-practices"
+                },
+                {
+                    "text": "Quality measures: hospitalizations and deaths",
+                    "href": "#data/hospitalizations-and-deaths"
+                },
+                {
+                    "text": "Footnotes",
+                    "href": "#data/about-data"
+                },
+                {
+                    "text": "Data sources",
+                    "href": "#data/data-sources"
+                },
+                {
+                    "text": "Data collection periods and updates",
+                    "href": "#data/data-collection-periods"
+                },
+                {
+                    "text": "Download the data",
+                    "href": "#data/download-data"
+                }
+            ]
+        },
+        {
+            "text": "Resources",
+            "href": "#resources/patient-checklists",
+            "parent": "resources",
+            "subMenu": [
+                {
+                    "text": "Information for patients and caregivers",
+                    "href": "#resources/patient-checklists"
+                },
+                {
+                    "text": "Information for dialysis facilities",
+                    "href": "#resources/note"
+                },
+                {
+                    "text": "Glossary",
+                    "href": "#resources/glossary"
+                }
+             
+            ]
+        },
+        {
+            "text": "Help",
+            "href": "#help/help",
+            "parent": "help",
+            "subMenu": [
+                {
+                    "text": "How to use this website to search for dialysis centers",
+                    "href": "#help/help"
+                },
+                {
+                    "text": "Tips for printing",
+                    "href": "#help/tips-print"
+                }
+            ]
+        }
+    ]
 }
