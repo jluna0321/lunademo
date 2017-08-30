@@ -22,15 +22,7 @@ var tmplCobrandData = { sl_translate: "text,heading,content,title",
            ],
            staticMenuItems: [
                 { text: "Eligibility & Premium THISISATEST Home", href: "/eligibilitypremiumcalc", target: "", title: "Eligibility & Premium THISISATEST Home" }
-           /*{ text: "General Information", href: "/medicareeligibilitytool/#generalinfo", target: "", title: "General Information" },
-           { text: "Resources", href: "javascript:void(0);", target: "", title: "Resources", className: "resources-parent-link", liClassName: "last-item",
-           subMenu: [
-           { text: "Related Links", href: "/medicareeligibilitytool/#resources/relatedlinks", target: "", title: "Related Links" },
-           { text: "Quick Links", href: "/medicareeligibilitytool/#resources/quicklinks", target: "", title: "Quick Links" },
-           { text: "Publications", href: "/medicareeligibilitytool/#resources/publications", target: "", title: "Publications", liClassName: "last-item" }
-           ]
-           }
-           */
+
            ],
     
             breadcrumb:
