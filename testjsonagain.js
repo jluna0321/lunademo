@@ -4,6 +4,8 @@ sl_suffix: "Text",
 sl_html: "text",
 
     cobrand: {
+        /* this is a test comment
+       */
         headlineText: "<a href='/eligibilitypremiumcalc' title='Go to Eligibility & Premium THISISATEST Homepage'><img src='img/cobrand_eligibility_calculator.png' alt='Eligibility & Premium THISISATEST' href='/medicareeligibilitytool/index.html' /></a>",
         hideMenu: false,
         ariaHeadingText: "Main Menu",
