@@ -29,6 +29,7 @@ header nav {
   display: block;
   overflow: hidden;
 }
+/* <style>body.page .kollumnright h2 {margin-left:-15px;}body.page .kollumnleft h2 {margin-right:0;}</style> */
 header nav a {
   display: inline-block;
   padding: .75em;
