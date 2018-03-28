@@ -1,0 +1,13 @@
+{
+    "sl_path": "user/firstName",
+    "status": 200,
+    "messages": "The request was successful",
+    "user": {
+    	"firstName": "John",
+	"role": "Editor",
+    	"admin": false
+    },
+    "string1": "Here's some content for John to translate.",
+    "string2": "<div>Smartling <strong>automatically</strong> recognises HTML markup in a JSON string</div>",
+    "string3": "This is an additional string from your site."
+}
