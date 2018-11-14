@@ -1,6 +1,6 @@
 define({
     '/Content/TESTPATH/Other_Actions.html': {
-        'sl_translate': 't'
+        'sl_translate': 't',
         i: [89],
         t: ['This one 135 should come in'],
         b: ['']
