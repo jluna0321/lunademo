@@ -1,7 +1,9 @@
 define({
     '/Content/TESTPATH/Other_Actions.html': {
         i: [89],
+        sl_tr_start();,
         t: ['This one 135 should come in'],
+        sl_tr_end();,
         b: ['']
     },
     '/Content/TESTPATH/Assign.html': {
